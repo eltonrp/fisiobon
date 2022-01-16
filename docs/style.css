@@ -132,6 +132,7 @@ main {
 }
 
 .inicio h1 {
+    display: flex;
     color: #fff;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 45px;
