@@ -67,7 +67,7 @@ body {
         top: 15vh;
         right: 0;
         width: 50vh;
-        height: 85vh;
+        height: 80vh;
         background: #23232e;
         flex-direction: column;
         align-items: center;
@@ -135,9 +135,10 @@ main {
     display: flex;
     color: #fff;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 45px;
+    font-size: 40px;
     letter-spacing: 10px;
     font-weight: 700;
+    justify-content: center;
 }
 
 .div-inicio {
