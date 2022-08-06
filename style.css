@@ -40,7 +40,7 @@ header nav {
 }
 
 body {
-    background: url("img/backgraound.jpg") no-repeat center center;
+    background: url("img/background.jpg") no-repeat center center;
     background-size: cover;
     height: 100vh;
 }
